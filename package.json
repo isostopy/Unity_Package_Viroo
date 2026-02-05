@@ -1,0 +1,15 @@
+{
+	"name": "com.isostopy.viroo",
+	"displayName": "Isostopy's Viroo Extensions",
+	"version":"1.0.0",
+	"description": "Herramientas y sistemas útiles para hacer aplicaciones de Viroo.",
+	"author": "isostopy",
+	"samples":
+	[
+		{
+			"displayName":"Subscenes Usage",
+			"description":"Funcionamiento de las Subscenes que permiten falsear un cambio de escena en Viroo activando y desactivando objetos.",
+			"path":"Samples/Subscenes"
+		}
+	]
+}
