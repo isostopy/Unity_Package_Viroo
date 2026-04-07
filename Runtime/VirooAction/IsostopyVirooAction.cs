@@ -20,6 +20,8 @@ namespace Isostopy.Viroo
 
 #if !VIROO
 
+		protected virtual void Reset() { }
+
 		public void Execute()
 		{
 			LocalExecuteImplementation(string.Empty);
